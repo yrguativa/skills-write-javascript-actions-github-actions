@@ -9,7 +9,3 @@ outputs:
 runs:
   using: "node16"
   main: "main.js"
-
-
-- name: ha-ha
-  uses: ./.github/actions/joke-action
